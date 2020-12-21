@@ -51,3 +51,10 @@
   display: block;
   margin-bottom: 10px;
 }
+
+/*.user-component__text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}*/
