@@ -15,3 +15,13 @@
 .settings__setting-column:last-child {
   opacity: 0.5;
 }
+
+.settings-list {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+
+.settings__setting:last-child {
+  border-bottom: none;
+}

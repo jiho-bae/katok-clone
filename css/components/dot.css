@@ -1,5 +1,9 @@
 .dot {
+  position: absolute;
   color: tomato;
   font-size: 50px;
-  position: absolute;
+}
+.dot-position {
+  left: 20px;
+  bottom: 10px;
 }
