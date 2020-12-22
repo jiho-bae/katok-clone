@@ -18,10 +18,14 @@
 
 .settings-list {
   border-bottom: 1px solid rgba(0, 0, 0, 0.15);
-  margin-bottom: 20px;
-  padding-bottom: 20px;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
 }
 
 .settings__setting:last-child {
   border-bottom: none;
+}
+
+.settings-screen {
+  height: 100vh;
 }
