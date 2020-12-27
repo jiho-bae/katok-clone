@@ -25,7 +25,3 @@
 .settings__setting:last-child {
   border-bottom: none;
 }
-
-.settings-screen {
-  height: 110vh;
-}
